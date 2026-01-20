@@ -1,6 +1,22 @@
-This script pulls down all of the cover images for submissions to the [2025 Game Off](https://itch.io/jam/game-off-2025).
+<img
+  src="animation.gif"
+  alt="Game Off screenshots downloader animation"
+  align="right"
+  width="160"
+  style="margin: 10px;"
+/>
 
-Written with GitHub Copilot Agent + Claude Opus 4.5 `<3`
+These script pulls down all of the cover images for submissions to the [2025 Game Off](https://itch.io/jam/game-off-2025) and create (1) a wallpaper montage and (2) animated GIF of them.
+
+Written with GitHub Copilot Agent + Claude Opus 4.5. Original prompts below for posterity / learning `<3`
+
+ ❯ [Original GitHub Copilot Prompts to download images](#-original-github-copilot-prompts-to-download-images-copilot) · [script](download_screenshots.rb)<br>
+ ❯ [Original GitHub Copilot Prompts to create a montage wallpaper](#-original-github-copilot-prompts-to-create-a-montage-wallpaper-copilot) · [script](create_wallpaper.rb)<br>
+ ❯ [Original GitHub Copilot Prompts to make an animated GIF](#-original-github-copilot-prompts-to-make-an-animated-gif-copilot) · [script](create_animation.rb)
+
+<br clear="all"/>
+
+![](wallpaper.png)
 
 #### ❯ Original GitHub Copilot Prompts to download images :copilot:
 
