@@ -6,7 +6,7 @@
   style="margin: 10px;"
 />
 
-These script pulls down all of the cover images for submissions to the [2025 Game Off](https://itch.io/jam/game-off-2025) and creates (1) a wallpaper montage and (2) animated GIF of them.
+These scripts pulls down all of the cover images for submissions to the [2025 Game Off](https://itch.io/jam/game-off-2025) and creates (1) a wallpaper montage and (2) animated GIF of them.
 
 Written with GitHub Copilot Agent + Claude Opus 4.5. Original prompts below for posterity / learning `<3`
 
